@@ -1,5 +1,0 @@
-downloads/
-.git/
-venv/
-__pycache__/
-*.session
